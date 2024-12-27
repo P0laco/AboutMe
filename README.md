@@ -15,6 +15,7 @@
         What about a cup of coffee to have good conversation. Looking forward to see what i can contribute to the team!
       </p>
     </div>
+    <h2>Tech Stack Learned</h2>
     <div>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" height=50 weight=50>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="FIGMA" height=50 weight=50>
